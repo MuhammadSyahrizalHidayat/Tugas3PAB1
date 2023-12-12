@@ -1,0 +1,4 @@
+#Tue Dec 12 13:05:56 WIB 2023
+base.0=D\:\\a\\Integrasi_Kamera_dan_Gambar\\take_picture\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
